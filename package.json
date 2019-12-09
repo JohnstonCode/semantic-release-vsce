@@ -23,7 +23,7 @@
     "node-fetch": "^2.3.0",
     "read-pkg-up": "^4.0.0",
     "semver": "^5.6.0",
-    "vsce": "^1.57.0"
+    "vsce": "^1.71.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
